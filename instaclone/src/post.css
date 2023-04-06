@@ -1,0 +1,89 @@
+.main-container {
+    max-width: 500px;
+    margin: auto;
+    border: 1px solid gray;
+    margin-top: 5px;
+}
+
+.name-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: space-around;
+}
+
+.postImage {
+    width: 100%;
+}
+
+.name-container {
+    height: 50px;
+    margin: auto 5px;
+}
+
+.Section {
+    height: 20px;
+}
+
+.Section>h4 {
+    margin: 0px;
+}
+
+.Section>p {
+    margin: 0px;
+}
+
+.Fav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0px 5px;
+    margin-bottom: 0px;
+    height: 25px;
+}
+
+.Fav-container>div>img {
+    margin: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+.Fav-container>p {
+    margin: 5px 10px;
+    margin-top: 2px;
+    font-size: 12px;
+}
+
+.likes {
+    margin: 10px 10px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.foot {
+    text-align: left;
+    margin: 2px;
+    margin-left: 10px;
+}
+
+.back {
+    text-align: left;
+}
+
+.instalogo {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.instalogo>p {
+    margin: 0px;
+    font-size: 64px;
+    color: #006238;
+}
+
+.header {
+    border-bottom: 2px solid black;
+    height: 100px;
+    padding: 15px;
+}
