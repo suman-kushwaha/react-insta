@@ -40,7 +40,7 @@ const Post = () => {
           
             </div>
             <section>
-              <img className='postImage' src={`https://instaclone-ndex.onrender.com/posts/${val.PostImage}`} alt="" />
+              <img className='postImage' src={`https://instaclone-app-9rno.onrender.com/posts/${val.PostImage}`} alt="" />
             </section>
             <div>
               <h4 className='foot'>{val.description}</h4>
