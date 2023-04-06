@@ -1,0 +1,38 @@
+.logPage-container {
+    width: 100vw;
+    height: 100vh;
+    margin-left: auto;
+    color: #006238;
+    display: flex;
+    flex-direction: row;
+}
+
+.log {
+    width: 60vw;
+    height: 100vh;
+}
+
+.logImg-container>img {
+    margin-top: 5%;
+    margin-left: 50%;
+    width: 60%;
+    height: 90%;
+}
+
+.logButton-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 24px;
+    margin-right: 10%;
+}
+
+.log-btn {
+    width: 128px;
+    height: 64px;
+    font-size: 32px;
+    border-color: #006238;
+    font-weight: bold;
+    color: #006238;
+    border-radius: 5px;
+}
